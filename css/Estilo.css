@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    align-items: center;
+    background-color:#9b865a63;
+}
+.logo{
+    width: 40px;
+    margin: 3px;
+    text-align: center;
+}
+.thumbnail{
+    width: 270px;
+    height: 270px;
+}
+
+.contenido{
+    background-color:#98804b31;   
+    color: black;
+    text-align: justify;
+}
+
+.navegacion{
+    background-color:#715e346e; 
+    color: rgb(4, 2, 2);
+}
